@@ -23,7 +23,7 @@ public class Emitter : MonoBehaviour
     private Vector3 coinRotation;
     private int spawnCounter;
 
-    private void Start()
+    private void Awake()
     {
         coinSpawnDelay = obstacleSpawnDelay / 2 + obstacleSpawnDelay;
         StartCoroutine(ObstacleSpawnPipeline());
@@ -32,6 +32,7 @@ public class Emitter : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (IsGameFinished) return;
         foreach (Transform obstacle in transform)
             obstacle.position +=
                 Vector3.right * speed * Time.fixedDeltaTime;
