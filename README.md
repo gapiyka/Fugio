@@ -8,13 +8,12 @@ Test task for **Top Tier** company.
 
 Fugio from latin: 1. Flee; 2. Avoid
 
-![image](https://github.com/gapiyka/Fugio/assets/50524296/566b24e3-ad1a-43c0-84c5-09dfd175f01e)
+![image](https://github.com/gapiyka/Fugio/assets/50524296/0f49e7ca-bd6c-4f46-a841-8a6ff8130315)
+
 
 ## Demo of gameplay
 
-https://github.com/gapiyka/Fugio/assets/50524296/b72516da-c17f-494e-afb5-e24e49f119ce
-
-https://github.com/gapiyka/Fugio/assets/50524296/b0945677-0e71-43f3-b38f-6c7c1c2ee085
+https://github.com/gapiyka/Fugio/assets/50524296/660a0607-f130-43ea-b5d5-b16b99f8ef79
 
 
 ## My pet-projects:
